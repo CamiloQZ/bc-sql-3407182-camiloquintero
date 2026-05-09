@@ -42,7 +42,7 @@ INSERT INTO peces (id, nombre, especie, edad, estado) VALUES
 (10, 'Wave', 'Guppy', 4, 'saludable'),
 (11, 'Blue', 'Cirujano azul', 13, 'en tratamiento'),
 (12, 'Shadow', 'Molly', 10, 'saludable'),
-(13, 'Sunny', 'Pez dorado', 15, 'saludable'),
+(13, 'Sunny', 'Pez plateado', 15, 'saludable'),
 (14, 'Pearl', 'Tetra neón', 6, 'enfermo'),
 (15, 'Storm', 'Betta', 8, 'saludable');
 
