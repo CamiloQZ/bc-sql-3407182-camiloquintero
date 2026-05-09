@@ -44,7 +44,7 @@ WHERE nombre LIKE '%a%';
 -- ============================================
 -- CONSULTA 4: Filtro combinado
 -- Peces saludables entre 2 y 5 años
--- y de colores específicos
+-- y de colores específicos.
 -- ============================================
 
 SELECT
